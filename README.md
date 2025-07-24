@@ -33,7 +33,7 @@ I believe in blending creativity with precision, and curiosity with execution. W
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - Java, Spring Boot, MySQL
 - REST APIs, JWT Auth, Role-Based Access Control
-- 
+  
 ### 📚 DSA & Problem Solving
 - Solved **1000+ DSA problems** across LeetCode, GFG, and more
 - Strong foundation in algorithms, time-space complexity, and optimization
