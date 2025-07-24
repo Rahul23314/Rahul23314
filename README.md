@@ -60,10 +60,10 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ---
 ## My Top Projects: 
--1)Smart Report Generation Software (Backend Developer Intern – Experience)
--2)Catalyst India Support Hub
--3)Digital Library Management System
--4)MedGenie – AI Health Assistant
+- 1)Smart Report Generation Software (Backend Developer Intern – Experience)
+- 2)Catalyst India Support Hub
+- 3)Digital Library Management System
+- 4)MedGenie – AI Health Assistant
 
 ## 🛠 Current Focus
 - Designing and developing backend architectures with **Spring Boot**
