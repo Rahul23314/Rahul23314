@@ -28,7 +28,11 @@ I believe in blending creativity with precision, and curiosity with execution. W
 - MERN Stack (MongoDB, Express.js, React, Node.js)
 - Java, Spring Boot, MySQL
 - REST APIs, JWT Auth, Role-Based Access Control
-
+- 
+### 📚 DSA & Problem Solving
+- Solved **1000+ DSA problems** across LeetCode, GFG, and more
+- Strong foundation in algorithms, time-space complexity, and optimization
+- 
 ### ☕ Java Development & System Design
 - Multithreading, JVM Internals, Memory Management
 - Object-Oriented Design, Clean Code Practices
@@ -49,10 +53,6 @@ I believe in blending creativity with precision, and curiosity with execution. W
 ### 📊 Data & Visualization
 - Tableau, Power BI for insightful dashboards & decision support
 
-### 📚 DSA & Problem Solving
-- Solved **800+ DSA problems** across LeetCode, GFG, and more
-- Strong foundation in algorithms, time-space complexity, and optimization
-
 ---
 
 ## 🛠 Current Focus
@@ -64,27 +64,10 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahulkamble3018)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-visit-9cf?style=for-the-badge&logo=vercel&logoColor=black)](https://your-portfolio-link.com)  
-📧 rohitkamble3018@gmail.com  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in)  
+
+📧rahulkamble2026rk@gmail.com
 📍 Pune, India
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkamble3018&style=flat-square&color=blue" alt="Profile views" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkamble3018&show_icons=true&theme=github_dark" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulkamble3018&theme=github-dark-blue" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkamble3018&layout=compact&theme=github_dark&hide=html" width="50%" />
-</p>
 
 ---
 
