@@ -13,7 +13,12 @@
 
 I'm an Information Technology student at **Pune Institute of Computer Technology**, passionate about building **secure, scalable**, and **intelligent tech solutions**. I thrive on solving real-world problems and love digging deep into code internals — from memory models to execution flows.
 
+Over the year, I’ve built a **solid wall of DSA** by solving **1000+ Data Structures & Algorithms problems** across LeetCode, GeeksforGeeks, and other platforms. Alongside that, I’ve developed strong fundamentals in **core Computer Science subjects** like Operating Systems, DBMS, CN, and OOP — which help me write efficient and reliable code with system-level thinking. 
+
 I enjoy crafting **relentless applications** — systems that are robust, reliable, and built to last. My current focus lies in building impactful backend systems using **Java and Spring Boot**, while deepening my understanding of **System Design**, scalability principles, and performance optimization. I also explore the power of **AI/ML** and **Cyber Security** to build smarter and safer software.
+
+
+
 
 ---
 
