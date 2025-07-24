@@ -37,7 +37,7 @@ I believe in blending creativity with precision, and curiosity with execution. W
 ### 📚 DSA & Problem Solving
 - Solved **1000+ DSA problems** across LeetCode, GFG, and more
 - Strong foundation in algorithms, time-space complexity, and optimization
-- 
+
 ### ☕ Java Development & System Design
 - Multithreading, JVM Internals, Memory Management
 - Object-Oriented Design, Clean Code Practices
