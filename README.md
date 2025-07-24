@@ -74,7 +74,7 @@ I believe in blending creativity with precision, and curiosity with execution. W
 
 ## 📫 Let’s Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahul-kamble-a41691251)  
 
 📧rahulkamble2026rk@gmail.com
 📍 Pune, India
